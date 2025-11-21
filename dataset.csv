@@ -1,0 +1,11 @@
+image_path,label
+data/healthy/healthy_1.png,healthy
+data/healthy/healthy_2.png,healthy
+data/healthy/healthy_3.png,healthy
+data/healthy/healthy_4.png,healthy
+data/healthy/healthy_5.png,healthy
+data/diseased/diseased_6.png,diseased
+data/diseased/diseased_7.png,diseased
+data/diseased/diseased_8.png,diseased
+data/diseased/diseased_9.png,diseased
+data/diseased/diseased_10.png,diseased
